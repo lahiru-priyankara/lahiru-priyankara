@@ -1,8 +1,9 @@
-<h1 align="center">Hi 👋, I'm Lahiru Priyankara</h1>
-<h3 align="center">🚀 Passionate Full-Stack & Android Developer from Sri Lanka 🇱🇰</h3>
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bHdnZmdxMDFrY2F6eGdoYjRoYzhvYW4wZ2ljYWdoaWJwb3dwdGMxbCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/gf675azxNAz2zDQ1vD/giphy.gif" alt="Coding Animation" width="250"/>
 </p>
+<h1 align="center">Hi 👋, I'm Lahiru Priyankara</h1>
+<h3 align="center">🚀 Passionate Full-Stack & Android Developer from Sri Lanka 🇱🇰</h3>
+
 
 
 <p align="center">
