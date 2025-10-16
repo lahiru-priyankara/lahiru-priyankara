@@ -46,11 +46,9 @@
 ---
 <h3 align="center">📊 GitHub Stats</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lahiru-priyankara&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&card_width=330" alt="Lahiru's GitHub stats" width="48%" height="200"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lahiru-priyankara&layout=compact&theme=tokyonight&hide_border=true&card_width=330" alt="Most Used Languages" width="48%" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=lahiru-priyankara&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="47%" height="200px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lahiru-priyankara&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="47%" height="200px"/>
 </p>
-
-
 
 ---
 
