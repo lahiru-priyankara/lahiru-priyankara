@@ -22,15 +22,25 @@
 ---
 
 <h3 align="center">🌐 Connect With Me</h3>
+<br>
+
 <p align="center">
-  <a href="https://linkedin.com/in/your-link" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="45" />
+  <a href="https://linkedin.com/in/your-link" target="_blank" style="margin: 0 12px;">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="50" />
   </a>
-  <a href="mailto:officiallahiru.p@gmail.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=gmail" width="45" />
+  <a href="mailto:officiallahiru.p@gmail.com" target="_blank" style="margin: 0 12px;">
+    <img src="https://skillicons.dev/icons?i=gmail" height="50" />
   </a>
-  <a href="https://github.com/LahiruPriyankara" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" width="45" />
+  <a href="https://github.com/LahiruPriyankara" target="_blank" style="margin: 0 12px;">
+    <img src="https://skillicons.dev/icons?i=github" height="50" />
+  </a>
+  <a href="https://instagram.com/kk.priya_" target="_blank" style="margin: 0 12px;">
+    <img src="https://skillicons.dev/icons?i=instagram" height="50" />
+  </a>
+  <a href="https://web.facebook.com/profile.php?id=61584918527595" target="_blank" style="margin: 0 12px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg"
+         height="50"
+         style="background-color:#1877F2; padding:8px; border-radius:15px;" />
   </a>
 </p>
 
@@ -45,17 +55,26 @@
 
 ---
 
-<h3 align="center">📊 GitHub Stats</h3>
+<h3 align="center">📊 GitHub Analytics</h3>
+
+<!-- Activity Graph -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lahiru-priyankara&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="47%" height="200px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lahiru-priyankara&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="47%" height="200px"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lahiru-priyankara&theme=tokyo-night&hide_border=true" width="90%" />
+</p>
+
+<!-- Language Cards -->
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lahiru-priyankara&theme=tokyonight" width="45%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lahiru-priyankara&theme=tokyonight" width="45%" />
 </p>
 
 ---
 
 ### 🏆 Featured Projects
-- 💎 **Digital Gem Management System** — MERN-based enterprise app for gem tracking and management  
-- 📱 **Wellness Companion** — Android app promoting daily health routines and productivity  
+
+🔹 💎 **Digital Gem Management System**  
+👉 MERN-based enterprise app for gem tracking  
+🔗 https://github.com/lahiru-priyankara/Project-DGMS-BCP-01.git
 
 ---
 
